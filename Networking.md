@@ -12,7 +12,7 @@ After completing this module, you will be able to:
 - Plan virtual networks in infrastructure as a service (IaaS) version 1 (v1).
 
 
-## Overviewwho
+## Overview
 
 Network Security Groups
 - feature for ARM based resources
@@ -23,11 +23,13 @@ user defined routes
 regional VNets
 
 
-cross-premise network connectivity
+cross-premise/cross-site network connectivity
 - point-to-site VPN
 - site-to-site VPN
 - ExpressRoute
-
+  - provide a private connection from your datacenter to an Azure virtual network, through a connection service provider. This can improve security and achieve higher bandwidth, lower latency, and better reliability.
+  
+  
 reserved IP
 - statische Public IP des IAAS Cloud Service - opposed to virtual IP (VIP)
 
@@ -70,7 +72,7 @@ CIDR notation
 
 ## Intersite connectivity options
 
-- VNet-to-VNet (over multiple regions) - as opposed to VNet peering
+- VNet-to-VNet (connect VNets in multiple regions or subscriptions) - as opposed to VNet peering
 - Site-to-site (cloud <--> on-premise)
 
 

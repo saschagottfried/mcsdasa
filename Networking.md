@@ -12,6 +12,8 @@ After completing this module, you will be able to:
 - Plan virtual networks in infrastructure as a service (IaaS) version 1 (v1).
 
 
+## Overviewwho
+
 Network Security Groups
 - feature for ARM based resources
 
@@ -40,12 +42,42 @@ Within each subnet, the first three IP addresses and the last IP address are res
 
 DNS
 
-
 - ARM: resources created in the same virtual network and deployed with Azure Resource Manager (ARM) share the same DNS suffix;therefore, in most cases name resolution by using FQDN is not required. 
 - ASM: For virtual networks that are deployed by using the Azure classic deployment model, the DNS suffix is shared among VMs that belong to the same cloud service. Therefore, name resolution between VMs that belong to different cloud services in the same virtual network require the use of FQDN.
 
 
+## Selecting private address spaces
+
+These three address spaces are commonly used in the Azure VNets.
+
+- 10.0.0.0/8. Includes all addresses from 10.0.0.1 to 10.0.0.255
+- 172.16.0.0/12. Includes all addresses from 172.16.0.1 to 172.31.255.255
+- 192.168.0.0/16. Includes all addresses from 192.168.0.1 to 192.168.255.255
+
+CIDR notation
+
+| CIDR notation | Range                 | Potential Addresses | Avail. in Azure |
+
+| 10.0.0.0/24 | 10.0.0.0 to 10.0.0.255  | 256                 | 251   |
 
 
+## Azure DNS
+
+
+
+# Lesson 3
+
+
+## Intersite connectivity options
+
+- VNet-to-VNet (over multiple regions) - as opposed to VNet peering
+- Site-to-site (cloud <--> on-premise)
+
+
+Virtual gateways
+- prefer dynamic gateways (route-based)
+- older static gateways use IKE1 protocol
+  - no VNet
+  - only a single connection
 
 

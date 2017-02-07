@@ -1,6 +1,7 @@
 # Azure App Services
 
 - Web Apps
+- Mobile Apps
 - Logic Apps
 - API Apps
 

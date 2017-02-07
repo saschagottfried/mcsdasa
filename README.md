@@ -64,9 +64,7 @@ VM costs
 Migration of workloads
 - .vhd files
 - .vhdx not supported
-- [sysprep.exe](http://www.utilizewindows.com/introduction-to-sysprep/) required
-- 
-
+- [sysprep](http://www.utilizewindows.com/introduction-to-sysprep/) required
 
 # Implementing Virtual Machines
 

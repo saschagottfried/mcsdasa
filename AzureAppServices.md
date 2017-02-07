@@ -38,7 +38,38 @@ App Service Plan Tiers
   - 20 deployment slots
   
   
-  App Services
-  - Logic Apps (connect with IFTTT)
-  - API Apps (needs Swagger)
+App Services
+- Logic Apps (connect with IFTTT)
+- API Apps (needs Swagger)
    
+
+## Logic apps
+
+Logic apps integrate your apps with cloud-based apps by using connectors
+
+Core connectors
+- 
+
+
+
+## App Deployment methods in App Service
+
+
+Example
+- [ToDoApp](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-deploy-complex-application-predictably)
+
+Publish profile
+
+
+Deploy to Azure (Kudu)
+
+
+Deploy with Visual Studio
+
+
+
+## Lesson 7 - Traffic Manager
+
+
+
+

@@ -13,6 +13,13 @@ azure solution architect
 - [Quickstart](https://docs.microsoft.com/en-us/azure/azure-resource-manager/powershell-azure-resource-manager)
 
 
+Azure Service Management Cmdlets
+- https://docs.microsoft.com/en-us/powershell/servicemanagement/
+
+ARM
+- https://docs.microsoft.com/en-us/powershell/resourcemanager/
+
+
 ## Azure Portals
 - classic portal
 - current portal

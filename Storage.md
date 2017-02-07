@@ -33,3 +33,24 @@ Per-API metrics
 
 Logs
 - These contain all storage operations for Blob, Table, Queue, and File services. This allows you to diagnose the cause of poor performance or to identify unauthorized access attempts.
+
+
+## Shared access signature
+
+- can issue over portal in storage account blade
+  - pay close attention to expire date/time widget (fix expiry date)
+  
+  
+  
+  
+## Azure Backup
+- [What is Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup)
+
+
+
+## Azure Site Recovery
+
+- [How does Azure Site Recovery work?](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-components)
+
+Workloads
+- https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup#which-applications-and-workloads-can-be-backed-up

@@ -99,3 +99,37 @@ Pitfalls
 - scaling without preprovisionied VMS like in the classic model (ASM)
 
 
+## Configuration management
+
+
+
+Custom script and DSC extensions
+- Custom Script for Linux (OMF based)
+- Custom Script for Windows (WMF based)
+
+Desired State Configuration
+- DSC Extension for Azure 
+
+DSC Example 
+- Add Windows server role
+
+
+## IAAS v1 Networking
+
+All VMs are in same VNET 
+- out-of-the-box
+
+Direct communication
+- Instance level Public IP 
+
+Endpoint communications
+- Static IP (SIP)
+- Private IP (PIP)
+
+A cloud service constitutes a logical boundary for virtual machines it contains, offering a number of additional features, including:
+
+- A public IP address and associated Domain Name System (DNS) name in the cloudapp.net DNS namespace.
+- Support for endpoints, which you can use to expose individual ports of VMs within the cloud service for external access (from the Internet or other Azure services).
+- Automatic name resolution and direct communication between its VMs without the need to use their fully qualified domain names (FQDNs).
+- Automatic assignment of private IP addresses to its VMs.
+

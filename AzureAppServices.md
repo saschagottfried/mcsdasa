@@ -36,3 +36,9 @@ App Service Plan Tiers
   
 - Premium
   - 20 deployment slots
+  
+  
+  App Services
+  - Logic Apps (connect with IFTTT)
+  - API Apps (needs Swagger)
+   

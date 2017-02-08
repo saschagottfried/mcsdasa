@@ -14,3 +14,17 @@ Features
 - multi-tenant by design
 - support multi-factor auth (MFA)
 - protocols: SAML, WS-Federation, OpenId Connect, OAuth
+
+Tiers
+- Free
+- Basic
+- Premium
+
+
+Azure AD B2B 
+- collaboration between partners
+- fededate once with Azure AD
+
+
+Azure AD B2C
+- simplifies and standardizes consumer identity management by allowing consumers to sign up with social accounts such as Facebook, Google, Amazon or linkedIn

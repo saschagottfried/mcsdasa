@@ -1,0 +1,12 @@
+# Automation & OMS
+
+## Automation
+- powershell scripts
+- graphical runbooks
+- powershell workflow (parallel execution)
+
+
+OMS
+
+New feature
+- support connnection to VM instead of installation of VM Extension (Monitor extensions)

@@ -37,4 +37,11 @@ Azure AD B2C
 Roles
 - [administrator roles in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-assign-admin-roles)
 
+Administrator permissions
+- https://docs.microsoft.com/en-us/azure/active-directory/active-directory-assign-admin-roles#administrator-permissions
+
+
+Application Access Panel
+- https://myapps.microsoft.com
+
 

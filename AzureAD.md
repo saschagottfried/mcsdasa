@@ -5,10 +5,10 @@ Microsoft Azure Active Directory (Azure AD) is a cloud-based identity and access
 Overview
 
 No-Cloud/Hybrid/PaaS/Cloud-onyl products
-- On-premises Active Directory
+- On-premises Active Directory (X.500 directories / LDAP / Forests - orange triangle)
 - Active Directory on Azure VM (IAAS)
 - Azure Active Directory Domain Services (AD DS)
-- Azure Active Directory
+- Azure Active Directory (identity and access management - yellow triangle)
 
 Features
 - multi-tenant by design

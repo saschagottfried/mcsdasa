@@ -61,4 +61,6 @@ Configure SSO with apps not in Azure AD gallery
 - https://docs.microsoft.com/en-us/azure/active-directory/active-directory-saas-custom-apps
 
 
+# Application Management in Azure Active Directory
 
+- https://docs.microsoft.com/en-us/azure/active-directory/active-directory-apps-index

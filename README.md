@@ -29,6 +29,10 @@ ARM
 - [Resource Explorer](https://resources.azure.com)
 - [ARM Template Designer](https://armviz.io)
 
+Authoring templates
+- [Template format](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates#template-format)
+- [Template expressions & functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates#expressions-and-functions)
+- [Design patterns](https://docs.microsoft.com/en-us/azure/azure-resource-manager/best-practices-resource-manager-design-templates)
 
 ## IAAS v2 virtual machines
 

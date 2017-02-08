@@ -34,6 +34,10 @@ Authoring templates
 - [Template expressions & functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates#expressions-and-functions)
 - [Design patterns](https://docs.microsoft.com/en-us/azure/azure-resource-manager/best-practices-resource-manager-design-templates)
 
+Resource Manager providers, regions, API versions and schemas
+- https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services
+
+
 ## IAAS v2 virtual machines
 
 Basic parts

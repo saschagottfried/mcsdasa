@@ -43,6 +43,11 @@ App Services
 - API Apps (needs Swagger)
    
 
+Comparison
+- [Azure App Service, Virtual Machines, Service Fabric, and Cloud Services comparison](https://docs.microsoft.com/en-us/azure/app-service-web/choose-web-site-cloud-service-vm)
+
+
+
 ## Logic apps
 
 Logic apps integrate your apps with cloud-based apps by using connectors

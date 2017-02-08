@@ -17,3 +17,19 @@ Elastic database pool
 ## Security
 
 Server-level security features
+
+
+
+# Auditing
+
+Enable auditing
+- stored in Azure Table storage
+
+
+# Self-service restore
+
+Retention policy
+
+- Basic: 7 days
+- Standard: 14 days
+- Premium: 35 days

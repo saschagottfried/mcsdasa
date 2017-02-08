@@ -13,7 +13,7 @@ No-Cloud/Hybrid/PaaS/Cloud-onyl products
 Features
 - multi-tenant by design
 - support multi-factor auth (MFA)
-- protocols: SAML, WS-Federation, OpenId Connect, OAuth
+- protocols: SAML 1.0/2.0, WS-Federation, OpenId Connect, OAuth
 
 Tiers
 - Free
@@ -43,5 +43,22 @@ Administrator permissions
 
 Application Access Panel
 - https://myapps.microsoft.com
+
+
+# Managing cloud applications
+- token (STS)
+- claims based
+
+Example app
+- Nerddinner.com
+- Consent dialog
+
+Token Formate
+- JWT
+
+
+Configure SSO with apps not in Azure AD gallery
+- https://docs.microsoft.com/en-us/azure/active-directory/active-directory-saas-custom-apps
+
 
 

@@ -66,3 +66,14 @@ Configure SSO with apps not in Azure AD gallery
 # Application Management in Azure Active Directory
 
 - https://docs.microsoft.com/en-us/azure/active-directory/active-directory-apps-index
+
+
+
+# Directory synchronization in hybrid environments
+
+- Hybrid envs support "Same sign on" as apposed to "Single sign on"
+
+Azure Connect primary components
+- Synchronization
+- AD Federation Service (AD FS)
+- Health monitoring

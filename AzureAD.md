@@ -20,6 +20,8 @@ Tiers
 - Basic
 - Premium
 
+- [comparing GA features] (https://docs.microsoft.com/en-us/azure/active-directory/active-directory-editions#comparing-generally-available-features)
+
 
 Azure AD B2B 
 - collaboration between partners

@@ -6,8 +6,8 @@ Overview
 
 No-Cloud/Hybrid/PaaS/Cloud-onyl products
 - On-premises Active Directory (X.500 directories / LDAP / Forests - orange triangle)
-- Active Directory on Azure VM (IAAS)
-- Azure Active Directory Domain Services (AD DS)
+- Active Directory on Azure VM (IaaS)
+- Azure Active Directory Domain Services (PaaS)
 - Azure Active Directory (identity and access management - yellow triangle)
 
 Features
@@ -77,3 +77,7 @@ Azure Connect primary components
 - Synchronization
 - AD Federation Service (AD FS)
 - Health monitoring
+
+
+
+# Directory Federation Services

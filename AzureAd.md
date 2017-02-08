@@ -28,3 +28,13 @@ Azure AD B2B
 
 Azure AD B2C
 - simplifies and standardizes consumer identity management by allowing consumers to sign up with social accounts such as Facebook, Google, Amazon or linkedIn
+
+
+
+# Administration
+
+
+Roles
+- [administrator roles in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-assign-admin-roles)
+
+

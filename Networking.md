@@ -14,6 +14,9 @@ After completing this module, you will be able to:
 
 ## Overview
 
+Virtual networks
+- [Overview](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+
 Network Security Groups
 - feature for ARM based resources
 

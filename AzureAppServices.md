@@ -37,6 +37,9 @@ App Service Plan Tiers
 - Premium
   - 20 deployment slots
   
+- App Service Environment
+  - [Introduction to App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/app-service-app-service-environments-readme)
+  
   
 App Services
 - Logic Apps (connect with IFTTT)

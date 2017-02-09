@@ -80,4 +80,10 @@ Deploy with Visual Studio
 
 
 
+## App Service on Linux
+
+Customers can create web apps on Linux only within a Linux enabled App Service Plan and this App Service Plan can only host Linux-based web apps
+
+- [Overview](https://docs.microsoft.com/en-us/azure/app-service/app-service-linux-readme)
+
 

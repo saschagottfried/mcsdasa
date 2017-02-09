@@ -17,6 +17,9 @@ ASP.NET MVC
 - Views
 - Global.asax
 
+## Storage Emulator
+- https://docs.microsoft.com/en-us/azure/storage/storage-use-emulator
+
 
 ## Azure WebJobs
 - [Get Started](https://docs.microsoft.com/en-us/azure/app-service-web/websites-dotnet-webjobs-sdk-get-started)

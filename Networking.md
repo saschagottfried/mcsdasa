@@ -86,3 +86,9 @@ Virtual gateways
   - only a single connection
 
 
+
+
+CDN
+
+- [Map Azure CDN content to a custom domain](https://docs.microsoft.com/en-us/azure/cdn/cdn-map-content-to-custom-domain)
+- [Enable HTTPS on an Azure CDN custom domain](https://docs.microsoft.com/en-us/azure/cdn/cdn-custom-ssl)

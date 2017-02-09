@@ -1,0 +1,28 @@
+# Cloud Services
+
+Sizes
+- [Sizes for Cloud Services](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-sizes-specs#sizes-for-web-and-worker-role-instances)
+
+
+
+# Cloud Service Configuration 
+
+Schema
+- [Reference](https://msdn.microsoft.com/en-us/library/dd179398.aspx)
+
+## Endpoints
+- input endpoint
+- Instance input endpoint
+- Internal endpoint
+
+## Network Traffic rules
+
+- [Enable communication for role instances in azure](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-enable-communication-role-instances)
+
+## Some communication scenarios
+- [Network traffic rules to control role communication](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-enable-communication-role-instances#network-traffic-rules-to-control-role-communication)
+
+
+## Startup task
+- [How to configure and run startup tasks for a cloud service](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-startup-tasks)
+- [Common startup tasks](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-startup-tasks)

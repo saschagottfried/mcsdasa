@@ -20,3 +20,7 @@
 
 
 # Azure SQL
+- Database as a service
+
+Security
+- add firewall rule for access from specific IP addresses

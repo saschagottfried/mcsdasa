@@ -50,9 +50,11 @@ Custom primary key convention
 - ModelBuilder Fluent API
 
 Loading related data
-- lazy loading (do not do this in WebApi projects
-- eager loading
-- 
+- [lazy loading](https://msdn.microsoft.com/en-us/library/jj574232(v=vs.113).aspx#Lazy Loading)
+  - do not do this in WebApi projects - JSON serializer will trigger lazy loading)
+- [eager loading](https://msdn.microsoft.com/en-us/library/jj574232(v=vs.113).aspx#Eagerly Loading)
+- [explicit loading](https://msdn.microsoft.com/en-us/library/jj574232(v=vs.113).aspx#Explicitly Loading)
+
 
 Connection String conventions
 

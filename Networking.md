@@ -27,8 +27,8 @@ regional VNets
 
 
 cross-premise/cross-site network connectivity
-- point-to-site VPN
-- site-to-site VPN
+- [point-to-site VPN](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal)
+- [site-to-site VPN](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)
 - ExpressRoute
   - provide a private connection from your datacenter to an Azure virtual network, through a connection service provider. This can improve security and achieve higher bandwidth, lower latency, and better reliability.
   

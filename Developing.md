@@ -10,6 +10,13 @@
 
 ## Web Apps
 
+ASP.NET MVC
+
+- Routes
+- Controller
+- Views
+- Global.asax
+
 
 ## Azure WebJobs
 - [Get Started](https://docs.microsoft.com/en-us/azure/app-service-web/websites-dotnet-webjobs-sdk-get-started)
@@ -24,3 +31,43 @@
 
 Security
 - add firewall rule for access from specific IP addresses
+
+Geo-Replication
+- available in all tiers
+- if replicas are readable we call this "Active Geo-Replication"
+- You can use the replica of the database as a read-only data source in load-balancing scenarios
+  - Example: An application uses the primary database for line-of-business functionality and the replica for reports
+
+
+# Entity Framework
+
+## Conventions
+
+Primary key convention
+- identifier have name: {Id} oder {classname}Id
+
+Custom primary key convention
+- ModelBuilder Fluent API
+
+Loading related data
+- lazy loading (do not do this in WebApi projects
+- eager loading
+- 
+
+Connection String conventions
+
+    public class EventsContext : DbContext
+    {}
+
+    <connectionStrings>
+    <add name="EventsContext" connectionString="Data Source=(LocalDb)\MSSQLLocalDB;Initial    Catalog=EventsContextModule3Demo;Pooling=True;Integrated Security=True" providerName="System.Data.SqlClient" />
+    </connectionStrings>
+
+
+Database Initializers
+- CreateIfDatabaseNotExits
+- DropCreateDatabaseAlways
+- DropCreateDatabaseIfModelChanges
+- MigrateDatabaseToLatestVersion
+
+

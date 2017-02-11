@@ -51,22 +51,25 @@ scheduledTransferPeriod
   -  zip file that contains all of the required binary-based dependencies.
   - You can use the CSPackcommand-line tool (installed with the Azure SDK) to create the package file as an alternative to Visual Studio
 
+Packaging
+- Cloudservice.cspkg
+- ServiceConfiguration.Cloud.cscfg
 
 ## Schema
 
-<WebRole/>
-  <Sites />
-  <ConfigurationSettings>
-  <Endpoints>
-</WebRole>
-<WorkerRole/>
-  <InputEndpoints/>
-  <InstanceInputEndpoints/>
-  <InternalEndpoints/>
-  <ConfigurationSettings/>
-  <Certificates/>
-  <LocalResources/>
-  <Imports/>
-  <Startup/>
+      <WebRole/>
+        <Sites />
+        <ConfigurationSettings>
+        <Endpoints>
+      </WebRole>
+      <WorkerRole/>
+        <InputEndpoints/>
+        <InstanceInputEndpoints/>
+        <InternalEndpoints/>
+        <ConfigurationSettings/>
+        <Certificates/>
+        <LocalResources/>
+        <Imports/>
+        <Startup/>
 
 
